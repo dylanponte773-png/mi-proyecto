@@ -1,0 +1,12 @@
+prueba
+Cazador
+150
+235
+73
+110
+60
+55
+Fácil
+10
+540
+Arma:Dagas Dobles:true:9;Armadura:Capa de Sombras (Común):false:14;Pocion:Poción de Salud Menor:false:0;Pocion:Poción de Salud Menor:false:0;Pocion:Poción de Salud Menor:false:0;Pocion:Poción de Salud Menor:false:0;Pocion:Poción de Maná:false:0;Pocion:Poción de Salud Menor:false:0;Armadura:Capa de Sombras (Común):true:22;

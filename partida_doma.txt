@@ -1,0 +1,12 @@
+Doma
+Gladiador
+100
+100
+60
+20
+15
+10
+Fácil
+1
+0
+Arma:Espada de Acero:true;Pocion:Poción de Salud Menor:false;Pocion:Poción de Salud Menor:false;Pocion:Poción de Maná:false;Pocion:Poción de Maná:false;

@@ -1,0 +1,12 @@
+lsds
+Mago
+170
+170
+330
+10
+40
+120
+Difícil
+7
+10
+Armadura:Túnica Mágica:false:5;Pocion:Poción de Maná:false:0;Pocion:Poción de Maná:false:0;Armadura:Túnica Mágica (Común):false:16;Arma:Bastón Arcano (Común):false:20;Armadura:Túnica Mágica (Legendaria):true:40;Pocion:Poción de Salud Menor:false:0;Pocion:Poción de Maná:false:0;Arma:Cetro Mágico (Legendaria):true:48;Pocion:Poción de Salud Menor:false:0;Pocion:Elixir de Vida:false:0;

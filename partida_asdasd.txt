@@ -1,0 +1,12 @@
+Asdasd
+Golem
+150
+150
+50
+15
+30
+5
+Fácil
+1
+0
+Armadura:Placas de Piedra:true:20;Pocion:Poción de Salud Menor:false:0;Pocion:Poción de Salud Menor:false:0;Pocion:Poción de Maná:false:0;Pocion:Poción de Maná:false:0;

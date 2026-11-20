@@ -1,0 +1,12 @@
+sadasda
+Gladiador
+100
+100
+60
+25
+15
+10
+Fácil
+1
+0
+Arma:Espada de Acero;Pocion:Poción de Salud Menor;Pocion:Poción de Salud Menor;Pocion:Poción de Maná;Pocion:Poción de Maná;
